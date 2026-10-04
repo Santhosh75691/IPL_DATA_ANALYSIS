@@ -1,0 +1,21 @@
+Match_ID,Date,City,Venue,Team1,Team2,Toss_Winner,Toss_Decision,Winner,Player_of_Match,Year,Month,Month_Name,Season,Toss_Winner_Match_Winner
+1,2024-03-22,Chennai,M. A. Chidambaram Stadium,CSK,RCB,RCB,Bat,CSK,Mustafizur Rahman,2024,3,Mar,2024,No
+2,2024-03-23,Mohali,Maharaja Yadavindra Singh International Cricket Stadium,PBKS,DC,PBKS,Field,PBKS,Sam Curran,2024,3,Mar,2024,Yes
+3,2024-03-23,Kolkata,Eden Gardens,KKR,SRH,KKR,Field,KKR,Andre Russell,2024,3,Mar,2024,Yes
+4,2024-03-24,Jaipur,Sawai Mansingh Stadium,RR,LSG,RR,Bat,RR,Sanju Samson,2024,3,Mar,2024,Yes
+5,2024-03-24,Ahmedabad,Narendra Modi Stadium,GT,MI,MI,Field,GT,Shubman Gill,2024,3,Mar,2024,No
+6,2024-03-25,Bengaluru,M. Chinnaswamy Stadium,RCB,PBKS,RCB,Field,RCB,Virat Kohli,2024,3,Mar,2024,Yes
+7,2024-03-26,Chennai,M. A. Chidambaram Stadium,CSK,GT,GT,Field,CSK,Shivam Dube,2024,3,Mar,2024,No
+8,2024-03-27,Hyderabad,Rajiv Gandhi International Stadium,SRH,MI,MI,Field,SRH,Abhishek Sharma,2024,3,Mar,2024,No
+9,2024-03-28,Bengaluru,M. Chinnaswamy Stadium,RCB,KKR,KKR,Field,KKR,Sunil Narine,2024,3,Mar,2024,Yes
+10,2024-03-29,Lucknow,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,LSG,PBKS,LSG,Bat,LSG,Mayank Yadav,2024,3,Mar,2024,Yes
+11,2024-03-30,Ahmedabad,Narendra Modi Stadium,GT,SRH,SRH,Bat,GT,Mohit Sharma,2024,3,Mar,2024,No
+12,2024-03-31,Delhi,Arun Jaitley Stadium,DC,CSK,CSK,Field,CSK,Ruturaj Gaikwad,2024,3,Mar,2024,Yes
+13,2024-04-01,Mumbai,Wankhede Stadium,MI,RR,RR,Field,RR,Yuzvendra Chahal,2024,4,Apr,2024,Yes
+14,2024-04-02,Visakhapatnam,ACA-VDCA Cricket Stadium,DC,KKR,KKR,Bat,KKR,Sunil Narine,2024,4,Apr,2024,Yes
+15,2024-04-03,Bengaluru,M. Chinnaswamy Stadium,RCB,LSG,LSG,Field,LSG,Mayank Yadav,2024,4,Apr,2024,Yes
+16,2024-04-04,Ahmedabad,Narendra Modi Stadium,GT,PBKS,PBKS,Field,GT,Shubman Gill,2024,4,Apr,2024,No
+17,2024-04-05,Hyderabad,Rajiv Gandhi International Stadium,SRH,CSK,SRH,Bat,SRH,Travis Head,2024,4,Apr,2024,Yes
+18,2024-04-06,Jaipur,Sawai Mansingh Stadium,RR,RCB,RR,Bat,RR,Jos Buttler,2024,4,Apr,2024,Yes
+19,2024-04-07,Mumbai,Wankhede Stadium,MI,DC,MI,Field,MI,Rohit Sharma,2024,4,Apr,2024,Yes
+20,2024-04-08,Chennai,M. A. Chidambaram Stadium,CSK,KKR,KKR,Field,CSK,Ravindra Jadeja,2024,4,Apr,2024,No
